@@ -1,0 +1,10 @@
+· Código legible (html y css)
+El CSS es muy fácil de entender. Los HTMLs son faciles de leer, exeptuadon unos textos en el CV que estaban escritos de una manera un poco complicada de leer.
+· Secciones lógicas claramente diferenciables
+El manejo de varias páginas failita definir los temas.
+· Diseño estético de la página (colores, bloques, secciones, tipografía, imágenes)
+Muy chevere el manejo de colores, le da mucho atractivo a la página. Manejaste muy bien los contenedores para darle estética a tu página.
+· Navegación consistente
+La navegación es consistente endiferentes pantallas.
+· Reglas en css correctamente nombradas
+Las reglas son bien nombradas y tienen significado.
